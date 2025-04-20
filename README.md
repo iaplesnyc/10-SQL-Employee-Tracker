@@ -81,4 +81,4 @@ Refer to the provided `.env.EXAMPLE` for guidance.
 
 > Add screenshots or a short GIF of the CLI interface to show how the app works.
 
-![CLI Screenshot](assets/screenshot-cli.png)
+![CLI Screenshot](assets/sql-challenge-screenshot)
