@@ -77,11 +77,12 @@ DB_NAME=employee_db
 
 Refer to the provided `.env.EXAMPLE` for guidance.
 
-## Screenshots
+## Screenshot & Walkthrough Video
 
 > Add screenshots or a short GIF of the CLI interface to show how the app works.
-<!-- trigger update -->
-
-## Screenshots
+The screenshot below shows the interactive CLI in action, and the walkthrough video provides a full demo of the app’s features.
 
 ![CLI Screenshot](Assets/sql-challenge-screenshot.png)
+
+- [Walkthrough Video](https://drive.google.com/file/d/1CYI2UfsE8FFCC-L0X5WyNg6o5LxCBel6/view?usp=sharing)
+
