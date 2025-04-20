@@ -80,5 +80,8 @@ Refer to the provided `.env.EXAMPLE` for guidance.
 ## Screenshots
 
 > Add screenshots or a short GIF of the CLI interface to show how the app works.
+<!-- trigger update -->
 
-![CLI Screenshot](assets/sql-challenge-screenshot)
+## Screenshots
+
+![CLI Screenshot](Assets/sql-challenge-screenshot.png)
